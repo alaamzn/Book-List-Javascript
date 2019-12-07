@@ -1,0 +1,25 @@
+body{
+      background: #64ccda;
+      font-family: 'Signika', sans-serif;
+}
+
+
+.success, .error {
+      color: white;
+      padding: 5px;
+      margin: 5px 0 15px 0;
+}
+
+.success {
+      background: green;
+}
+
+.error {
+      background: red;
+      border-radius: 10px;
+}
+
+.dark-btn{
+      background: #393e46 !important;
+      color: white !important;
+}
